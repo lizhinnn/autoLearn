@@ -1,0 +1,140 @@
+2024-12-25 12:03:24,831 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown1225
+2024-12-25 12:03:24,832 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-25 12:03:24,832 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-25 12:03:24,832 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-25 12:03:24,847 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-25 12:03:25,492 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-25 12:03:25,492 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-25 12:03:36,113 - lightrag - INFO - [Entity Extraction]...
+2024-12-25 12:24:22,923 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-25 12:58:37,727 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown1225
+2024-12-25 12:58:37,751 - lightrag - INFO - Load KV llm_response_cache with 847 data
+2024-12-25 12:58:37,752 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-25 12:58:37,752 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-25 12:58:37,754 - lightrag - INFO - Loaded graph from ./automationMarkdown1225\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-25 12:58:37,792 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-25 12:58:38,413 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-25 12:58:38,413 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-25 13:03:44,333 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-25 13:05:26,175 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown1225
+2024-12-25 13:05:26,189 - lightrag - INFO - Load KV llm_response_cache with 847 data
+2024-12-25 13:05:26,190 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-25 13:05:26,190 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-25 13:05:26,192 - lightrag - INFO - Loaded graph from ./automationMarkdown1225\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-25 13:05:26,226 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-25 13:05:26,827 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-25 13:05:26,828 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-25 13:05:35,943 - lightrag - INFO - [Entity Extraction]...
+2024-12-25 13:19:29,368 - lightrag - INFO - Inserting 4455 vectors to entities
+2024-12-25 13:20:45,182 - lightrag - INFO - Inserting 2999 vectors to relationships
+2024-12-25 13:21:35,916 - lightrag - INFO - Writing graph with 4514 nodes, 2999 edges
+2024-12-25 13:21:37,645 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-25 13:22:01,977 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2024-12-25 13:23:05,333 - lightrag - INFO - Global query uses 1 entites, 11 relations, 0 text units
+2024-12-25 13:23:17,657 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2024-12-25 13:23:19,088 - lightrag - INFO - Global query uses 1 entites, 11 relations, 0 text units
+2025-02-28 15:02:52,860 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown1225
+2025-02-28 15:02:52,900 - lightrag - INFO - Load KV llm_response_cache with 1096 data
+2025-02-28 15:02:52,913 - lightrag - INFO - Load KV full_docs with 1 data
+2025-02-28 15:02:52,937 - lightrag - INFO - Load KV text_chunks with 525 data
+2025-02-28 15:02:53,249 - lightrag - INFO - Loaded graph from ./automationMarkdown1225\graph_chunk_entity_relation.graphml with 4514 nodes, 2999 edges
+2025-02-28 15:03:12,857 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:04:04,450 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:05:35,663 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:05:51,632 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:06:08,487 - lightrag - INFO - Global query uses 1 entites, 6 relations, 0 text units
+2025-02-28 15:06:23,443 - lightrag - INFO - Global query uses 1 entites, 6 relations, 0 text units
+2025-02-28 15:06:37,244 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:06:52,476 - lightrag - INFO - Global query uses 1 entites, 6 relations, 0 text units
+2025-02-28 15:07:07,765 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:07:23,147 - lightrag - INFO - Global query uses 1 entites, 6 relations, 0 text units
+2025-02-28 15:07:38,519 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:08:14,949 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:09:34,463 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:09:50,426 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:10:05,972 - lightrag - INFO - Global query uses 1 entites, 16 relations, 0 text units
+2025-02-28 15:10:21,371 - lightrag - INFO - Global query uses 1 entites, 16 relations, 0 text units
+2025-02-28 15:10:36,875 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:10:45,187 - lightrag - INFO - Global query uses 1 entites, 16 relations, 0 text units
+2025-02-28 15:10:55,662 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:11:04,685 - lightrag - INFO - Global query uses 1 entites, 16 relations, 0 text units
+2025-02-28 15:11:13,726 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:11:53,706 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:13:10,882 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2025-02-28 15:13:19,572 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2025-02-28 15:13:29,000 - lightrag - INFO - Global query uses 1 entites, 8 relations, 0 text units
+2025-02-28 15:13:37,637 - lightrag - INFO - Global query uses 1 entites, 8 relations, 0 text units
+2025-02-28 15:13:46,511 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2025-02-28 15:13:53,213 - lightrag - INFO - Global query uses 1 entites, 8 relations, 0 text units
+2025-02-28 15:14:01,315 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2025-02-28 15:14:09,290 - lightrag - INFO - Global query uses 1 entites, 8 relations, 0 text units
+2025-02-28 15:14:17,218 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:14:39,269 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:15:20,356 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:15:23,067 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:15:31,812 - lightrag - INFO - Global query uses 1 entites, 13 relations, 0 text units
+2025-02-28 15:15:34,265 - lightrag - INFO - Global query uses 1 entites, 13 relations, 0 text units
+2025-02-28 15:15:36,776 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:15:39,121 - lightrag - INFO - Global query uses 1 entites, 13 relations, 0 text units
+2025-02-28 15:16:03,009 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:16:04,695 - lightrag - INFO - Global query uses 1 entites, 13 relations, 0 text units
+2025-02-28 15:16:07,029 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:16:26,411 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:17:16,427 - lightrag - INFO - Local query uses 60 entites, 20 relations, 0 text units
+2025-02-28 15:17:19,371 - lightrag - INFO - Local query uses 60 entites, 20 relations, 0 text units
+2025-02-28 15:17:22,127 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:17:24,736 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:17:27,247 - lightrag - INFO - Local query uses 60 entites, 20 relations, 0 text units
+2025-02-28 15:17:28,787 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:17:31,173 - lightrag - INFO - Local query uses 60 entites, 20 relations, 0 text units
+2025-02-28 15:17:33,114 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:17:35,345 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:18:04,010 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:18:42,427 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:18:50,768 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:18:54,088 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:18:57,090 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:19:00,206 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:19:02,743 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:19:05,643 - lightrag - INFO - Local query uses 60 entites, 17 relations, 0 text units
+2025-02-28 15:19:08,004 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:19:11,050 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:19:37,395 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:19:53,764 - lightrag - INFO - Local query uses 60 entites, 16 relations, 0 text units
+2025-02-28 15:19:56,742 - lightrag - INFO - Local query uses 60 entites, 16 relations, 0 text units
+2025-02-28 15:19:59,355 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:20:02,343 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:20:06,034 - lightrag - INFO - Local query uses 60 entites, 16 relations, 0 text units
+2025-02-28 15:20:07,874 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:20:11,670 - lightrag - INFO - Local query uses 60 entites, 16 relations, 0 text units
+2025-02-28 15:20:14,698 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2025-02-28 15:20:17,454 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:20:27,909 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:21:01,350 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:21:04,677 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:21:07,397 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:21:10,175 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:21:12,762 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:21:14,336 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:21:17,278 - lightrag - INFO - Local query uses 60 entites, 19 relations, 0 text units
+2025-02-28 15:21:19,046 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:21:21,076 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:21:45,682 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:22:57,830 - lightrag - INFO - Local query uses 60 entites, 12 relations, 0 text units
+2025-02-28 15:23:01,684 - lightrag - INFO - Local query uses 60 entites, 12 relations, 0 text units
+2025-02-28 15:23:05,169 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:23:08,316 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:23:11,407 - lightrag - INFO - Local query uses 60 entites, 12 relations, 0 text units
+2025-02-28 15:23:17,256 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:23:20,594 - lightrag - INFO - Local query uses 60 entites, 12 relations, 0 text units
+2025-02-28 15:23:22,473 - lightrag - INFO - Global query uses 1 entites, 12 relations, 0 text units
+2025-02-28 15:23:24,974 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:23:52,741 - lightrag - INFO - Truncate 60 to 0 chunks
+2025-02-28 15:24:32,574 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:24:36,535 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:25:04,790 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:25:12,027 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:25:30,578 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:25:46,759 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units
+2025-02-28 15:25:49,575 - lightrag - INFO - Local query uses 60 entites, 9 relations, 0 text units
+2025-02-28 15:25:51,623 - lightrag - INFO - Global query uses 1 entites, 9 relations, 0 text units

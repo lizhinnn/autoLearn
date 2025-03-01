@@ -1,0 +1,97 @@
+2025-01-02 17:11:41,279 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-02 17:11:41,279 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-02 17:11:41,279 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-02 17:11:41,280 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-02 17:11:41,291 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-02 17:11:46,259 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-02 17:11:46,259 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-02 17:17:06,636 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-01-02 17:40:51,388 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-02 17:40:51,388 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-02 17:40:51,389 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-02 17:40:51,389 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-02 17:40:51,548 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-02 17:40:51,560 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-02 17:40:52,245 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-02 17:40:52,245 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-02 17:44:47,507 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-01-03 10:25:41,225 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-03 10:25:41,226 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-03 10:25:41,226 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-03 10:25:41,226 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-03 10:25:41,227 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-03 10:25:41,240 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-03 10:25:41,989 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-03 10:25:41,989 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-03 10:37:46,116 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-03 10:37:46,117 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-03 10:37:46,117 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-03 10:37:46,117 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-03 10:37:46,118 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-03 10:37:46,131 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-03 10:37:46,789 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-03 10:37:46,790 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-03 10:40:05,954 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-03 10:40:05,955 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-03 10:40:05,955 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-03 10:40:05,956 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-03 10:40:05,957 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-03 10:40:05,969 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-03 10:40:06,586 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-03 10:40:06,586 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-03 10:41:43,086 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-03 10:41:43,086 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-03 10:41:43,086 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-03 10:41:43,087 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-03 10:41:43,088 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-03 10:41:43,100 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-03 10:41:43,724 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-03 10:41:43,724 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-03 11:01:38,915 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-03 11:01:38,916 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-03 11:01:38,916 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-03 11:01:38,917 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-03 11:01:38,918 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-03 11:01:38,931 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-03 11:01:39,553 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-03 11:01:39,554 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-03 11:47:16,715 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-03 11:47:16,715 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-03 11:47:16,716 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-03 11:47:16,716 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-03 11:47:16,718 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-03 11:47:16,730 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-03 11:47:17,342 - lightrag - INFO - [New Chunks] inserting 74 chunks
+2025-01-03 11:47:17,343 - lightrag - INFO - Inserting 74 vectors to chunks
+2025-01-12 16:59:44,562 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-12 16:59:44,563 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-12 16:59:44,563 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-12 16:59:44,563 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-12 16:59:44,590 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-12 16:59:44,641 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-12 16:59:49,886 - lightrag - INFO - [New Chunks] inserting 74 chunks
+2025-01-12 16:59:49,886 - lightrag - INFO - Inserting 74 vectors to chunks
+2025-01-12 22:38:11,502 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-12 22:38:11,502 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-12 22:38:11,503 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-12 22:38:11,503 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-12 22:38:11,504 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-12 22:38:11,518 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-12 22:38:12,185 - lightrag - INFO - [New Chunks] inserting 74 chunks
+2025-01-12 22:38:12,185 - lightrag - INFO - Inserting 74 vectors to chunks
+2025-01-12 22:45:00,917 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-12 22:45:00,918 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-12 22:45:00,918 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-12 22:45:00,918 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-12 22:45:00,938 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-12 22:45:00,972 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-12 22:45:01,716 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-12 22:45:01,717 - lightrag - INFO - Inserting 525 vectors to chunks
+2025-01-13 17:11:43,584 - lightrag - INFO - Logger initialized for working directory: ./hf20250102
+2025-01-13 17:11:43,584 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-01-13 17:11:43,584 - lightrag - INFO - Load KV full_docs with 0 data
+2025-01-13 17:11:43,585 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-01-13 17:11:43,586 - lightrag - INFO - Loaded graph from ./hf20250102\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-01-13 17:11:43,600 - lightrag - INFO - [New Docs] inserting 1 docs
+2025-01-13 17:11:44,265 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2025-01-13 17:11:44,266 - lightrag - INFO - Inserting 525 vectors to chunks

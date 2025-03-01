@@ -1,0 +1,250 @@
+2024-11-27 15:50:40,197 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-27 15:50:40,197 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-27 15:50:40,197 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-27 15:50:40,198 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-27 15:50:57,206 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-27 15:50:57,900 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-27 15:50:57,900 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-27 15:51:49,858 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 15:20:34,079 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 15:20:34,080 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-28 15:20:34,080 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 15:20:34,081 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 15:20:50,441 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 15:20:51,034 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 15:20:51,034 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 15:20:51,047 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-28 15:28:02,525 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 15:28:02,526 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-28 15:28:02,526 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 15:28:02,527 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 15:28:02,527 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 15:28:18,458 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 15:28:19,038 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 15:28:19,039 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 15:29:11,222 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 15:32:15,281 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 15:32:15,282 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-28 15:32:15,282 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 15:32:15,283 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 15:32:15,284 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 15:32:31,573 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 15:32:32,168 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 15:32:32,168 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 15:33:26,380 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 15:42:41,627 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 15:42:41,627 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-28 15:42:41,628 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 15:42:41,628 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 15:42:41,629 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 15:42:57,428 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 15:42:58,008 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 15:42:58,008 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 15:43:50,144 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 15:54:44,071 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 15:54:44,072 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-28 15:54:44,072 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 15:54:44,072 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 15:54:44,073 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 15:55:00,309 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 15:55:00,949 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 15:55:00,949 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 15:55:52,762 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 19:35:53,956 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-28 19:52:40,830 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 19:52:40,832 - lightrag - INFO - Load KV llm_response_cache with 30 data
+2024-11-28 19:52:40,832 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 19:52:40,832 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 19:52:40,833 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 19:52:58,190 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 19:52:58,911 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 19:52:58,911 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 19:53:50,965 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 20:58:53,585 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-28 21:02:00,834 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 21:02:00,844 - lightrag - INFO - Load KV llm_response_cache with 39 data
+2024-11-28 21:02:00,844 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 21:02:00,845 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 21:02:00,853 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 21:02:17,367 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 21:02:18,058 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 21:02:18,058 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 21:03:10,120 - lightrag - INFO - [Entity Extraction]...
+2024-11-28 21:58:47,872 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-28 21:58:47,880 - lightrag - INFO - Load KV llm_response_cache with 39 data
+2024-11-28 21:58:47,881 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-28 21:58:47,882 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-28 21:58:47,919 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-28 21:59:04,077 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-28 21:59:04,690 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-28 21:59:04,691 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-28 21:59:56,587 - lightrag - INFO - [Entity Extraction]...
+2024-11-29 12:06:40,845 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 12:06:40,854 - lightrag - INFO - Load KV llm_response_cache with 39 data
+2024-11-29 12:06:40,854 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 12:06:40,855 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 12:06:40,896 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 12:06:56,827 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 12:06:57,462 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 12:06:57,462 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 12:07:49,554 - lightrag - INFO - [Entity Extraction]...
+2024-11-29 12:21:53,814 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-29 12:47:35,447 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 12:47:35,458 - lightrag - INFO - Load KV llm_response_cache with 42 data
+2024-11-29 12:47:35,459 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 12:47:35,460 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 12:47:35,468 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 12:47:51,455 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 12:47:52,025 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 12:47:52,026 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 12:47:58,109 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-29 12:48:11,084 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 12:48:11,094 - lightrag - INFO - Load KV llm_response_cache with 42 data
+2024-11-29 12:48:11,095 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 12:48:11,095 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 12:48:11,097 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 12:48:26,979 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 12:48:27,546 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 12:48:27,547 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 12:48:29,706 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-29 13:30:52,391 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 13:30:52,403 - lightrag - INFO - Load KV llm_response_cache with 42 data
+2024-11-29 13:30:52,403 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 13:30:52,404 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 13:30:52,414 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 13:31:08,709 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 13:31:09,293 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 13:31:09,293 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 13:31:37,964 - lightrag - INFO - [Entity Extraction]...
+2024-11-29 13:40:27,853 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 13:40:27,855 - lightrag - INFO - Load KV llm_response_cache with 42 data
+2024-11-29 13:40:27,856 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 13:40:27,857 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 13:40:27,858 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 13:40:43,779 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 13:40:44,340 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 13:40:44,340 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 13:41:12,732 - lightrag - INFO - [Entity Extraction]...
+2024-11-29 13:59:18,685 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 13:59:18,687 - lightrag - INFO - Load KV llm_response_cache with 42 data
+2024-11-29 13:59:18,687 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 13:59:18,688 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 13:59:18,689 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 13:59:34,679 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 13:59:35,250 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 13:59:35,251 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 14:00:03,283 - lightrag - INFO - [Entity Extraction]...
+2024-11-29 14:09:04,512 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-11-29 14:09:04,523 - lightrag - INFO - Load KV llm_response_cache with 42 data
+2024-11-29 14:09:04,524 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-29 14:09:04,524 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-29 14:09:04,581 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-29 14:09:20,951 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-29 14:09:21,574 - lightrag - INFO - [New Chunks] inserting 436 chunks
+2024-11-29 14:09:21,574 - lightrag - INFO - Inserting 436 vectors to chunks
+2024-11-29 14:10:15,359 - lightrag - INFO - [Entity Extraction]...
+2024-12-03 08:27:31,565 - lightrag - INFO - Inserting 2400 vectors to entities
+2024-12-03 08:30:58,699 - lightrag - INFO - Inserting 1540 vectors to relationships
+2024-12-03 08:33:06,856 - lightrag - INFO - Writing graph with 2612 nodes, 1540 edges
+2024-12-03 08:33:11,305 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-03 08:36:12,882 - lightrag - INFO - Local query uses 60 entites, 25 relations, 0 text units
+2024-12-03 08:38:26,817 - lightrag - INFO - Global query uses 1 entites, 21 relations, 0 text units
+2024-12-03 08:40:08,165 - lightrag - INFO - Local query uses 60 entites, 25 relations, 0 text units
+2024-12-03 08:40:10,390 - lightrag - INFO - Global query uses 1 entites, 21 relations, 0 text units
+2024-12-03 16:45:39,939 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 16:45:39,969 - lightrag - INFO - Load KV llm_response_cache with 890 data
+2024-12-03 16:45:39,980 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 16:45:39,992 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 16:45:40,178 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 16:45:57,721 - lightrag - WARNING - All docs are already in the storage
+2024-12-03 16:46:04,585 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-03 16:50:10,188 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 16:50:10,221 - lightrag - INFO - Load KV llm_response_cache with 892 data
+2024-12-03 16:50:10,229 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 16:50:10,240 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 16:50:10,387 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 16:50:26,702 - lightrag - WARNING - All docs are already in the storage
+2024-12-03 16:50:30,378 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-03 16:52:36,140 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2024-12-03 16:53:21,482 - lightrag - INFO - Global query uses 2 entites, 20 relations, 0 text units
+2024-12-03 16:53:41,987 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2024-12-03 16:53:44,194 - lightrag - INFO - Global query uses 2 entites, 20 relations, 0 text units
+2024-12-03 17:03:38,708 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 17:03:38,744 - lightrag - INFO - Load KV llm_response_cache with 897 data
+2024-12-03 17:03:38,753 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 17:03:38,764 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 17:03:38,914 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 17:03:55,101 - lightrag - WARNING - All docs are already in the storage
+2024-12-03 17:03:58,214 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-03 17:04:00,753 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2024-12-03 17:04:03,327 - lightrag - INFO - Global query uses 2 entites, 20 relations, 0 text units
+2024-12-03 17:04:05,912 - lightrag - INFO - Local query uses 60 entites, 18 relations, 0 text units
+2024-12-03 17:04:08,162 - lightrag - INFO - Global query uses 2 entites, 20 relations, 0 text units
+2024-12-03 17:31:13,808 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 17:31:13,843 - lightrag - INFO - Load KV llm_response_cache with 897 data
+2024-12-03 17:31:13,852 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 17:31:13,863 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 17:31:14,015 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 17:31:30,584 - lightrag - WARNING - All docs are already in the storage
+2024-12-03 17:31:33,715 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-03 17:32:53,494 - lightrag - INFO - Local query uses 60 entites, 22 relations, 0 text units
+2024-12-03 20:45:05,152 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 20:45:05,189 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 20:45:05,199 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 20:45:05,210 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 20:45:05,363 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 20:54:16,711 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 20:54:16,739 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 20:54:16,749 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 20:54:16,759 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 20:54:16,918 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 20:56:31,957 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 20:56:31,985 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 20:56:31,995 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 20:56:32,006 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 20:56:32,160 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 20:56:49,738 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 20:56:49,766 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 20:56:49,775 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 20:56:49,787 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 20:56:49,939 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 21:23:16,788 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 21:23:16,820 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 21:23:16,830 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 21:23:16,841 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 21:23:16,994 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 21:32:11,677 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 21:32:11,714 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 21:32:11,725 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 21:32:11,738 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 21:32:11,903 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 21:33:47,147 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 21:33:47,186 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 21:33:47,197 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 21:33:47,208 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 21:33:47,371 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 21:37:30,629 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 21:37:30,659 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 21:37:30,670 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 21:37:30,680 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 21:37:30,840 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 21:47:35,804 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-03 21:47:35,835 - lightrag - INFO - Load KV llm_response_cache with 900 data
+2024-12-03 21:47:35,849 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-03 21:47:35,865 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-03 21:47:36,050 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-03 21:47:53,499 - lightrag - WARNING - All docs are already in the storage
+2024-12-03 21:47:54,626 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-03 21:48:42,127 - lightrag - INFO - Local query uses 60 entites, 22 relations, 0 text units
+2024-12-03 21:49:27,861 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2024-12-03 21:50:06,333 - lightrag - INFO - Local query uses 60 entites, 22 relations, 0 text units
+2024-12-03 21:50:06,536 - lightrag - INFO - Global query uses 1 entites, 20 relations, 0 text units
+2024-12-17 20:18:14,476 - lightrag - INFO - Logger initialized for working directory: ./automation
+2024-12-17 20:18:14,512 - lightrag - INFO - Load KV llm_response_cache with 905 data
+2024-12-17 20:18:14,521 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-17 20:18:14,532 - lightrag - INFO - Load KV text_chunks with 436 data
+2024-12-17 20:18:14,728 - lightrag - INFO - Loaded graph from ./automation\graph_chunk_entity_relation.graphml with 2612 nodes, 1540 edges
+2024-12-17 20:18:14,891 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-17 20:18:20,593 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-17 20:18:20,593 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-17 20:19:40,339 - lightrag - INFO - [Entity Extraction]...

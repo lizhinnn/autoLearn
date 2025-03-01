@@ -1,0 +1,67 @@
+2024-12-04 14:04:09,893 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown
+2024-12-04 14:04:09,893 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-04 14:04:09,894 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-04 14:04:09,894 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-04 14:04:09,915 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-04 14:04:10,607 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-04 14:04:10,607 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-04 14:04:26,581 - lightrag - INFO - [Entity Extraction]...
+2024-12-04 14:05:17,879 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-04 15:48:13,184 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown
+2024-12-04 15:48:13,185 - lightrag - INFO - Load KV llm_response_cache with 55 data
+2024-12-04 15:48:13,186 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-04 15:48:13,186 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-04 15:48:13,187 - lightrag - INFO - Loaded graph from ./automationMarkdown\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-04 15:48:13,223 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-04 15:48:13,920 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-04 15:48:13,920 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-04 15:48:26,239 - lightrag - INFO - [Entity Extraction]...
+2024-12-04 15:55:13,163 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-12-04 16:48:24,498 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown
+2024-12-04 16:48:24,505 - lightrag - INFO - Load KV llm_response_cache with 540 data
+2024-12-04 16:48:24,506 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-04 16:48:24,506 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-04 16:48:24,507 - lightrag - INFO - Loaded graph from ./automationMarkdown\graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-12-04 16:48:24,551 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-04 16:48:25,168 - lightrag - INFO - [New Chunks] inserting 525 chunks
+2024-12-04 16:48:25,168 - lightrag - INFO - Inserting 525 vectors to chunks
+2024-12-04 16:48:43,326 - lightrag - INFO - [Entity Extraction]...
+2024-12-04 16:59:05,143 - lightrag - INFO - Inserting 1910 vectors to entities
+2024-12-04 16:59:32,913 - lightrag - INFO - Inserting 790 vectors to relationships
+2024-12-04 16:59:49,349 - lightrag - INFO - Writing graph with 1951 nodes, 790 edges
+2024-12-04 16:59:50,567 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-04 17:00:15,252 - lightrag - INFO - Local query uses 60 entites, 21 relations, 0 text units
+2024-12-04 17:00:29,928 - lightrag - INFO - Global query uses 2 entites, 22 relations, 0 text units
+2024-12-04 17:00:41,806 - lightrag - INFO - Local query uses 60 entites, 21 relations, 0 text units
+2024-12-04 17:00:42,917 - lightrag - INFO - Global query uses 2 entites, 22 relations, 0 text units
+2024-12-04 18:02:57,206 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown
+2024-12-04 18:02:57,222 - lightrag - INFO - Load KV llm_response_cache with 1602 data
+2024-12-04 18:02:57,234 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-04 18:02:57,249 - lightrag - INFO - Load KV text_chunks with 525 data
+2024-12-04 18:02:57,368 - lightrag - INFO - Loaded graph from ./automationMarkdown\graph_chunk_entity_relation.graphml with 1951 nodes, 790 edges
+2024-12-04 18:02:57,560 - lightrag - WARNING - All docs are already in the storage
+2024-12-04 18:02:58,819 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-04 18:03:17,250 - lightrag - INFO - Local query uses 60 entites, 21 relations, 0 text units
+2024-12-04 18:03:30,481 - lightrag - INFO - Global query uses 1 entites, 21 relations, 0 text units
+2024-12-04 18:18:41,675 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown
+2024-12-04 18:18:41,692 - lightrag - INFO - Load KV llm_response_cache with 1605 data
+2024-12-04 18:18:41,705 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-04 18:18:41,718 - lightrag - INFO - Load KV text_chunks with 525 data
+2024-12-04 18:18:41,848 - lightrag - INFO - Loaded graph from ./automationMarkdown\graph_chunk_entity_relation.graphml with 1951 nodes, 790 edges
+2024-12-04 18:18:42,013 - lightrag - WARNING - All docs are already in the storage
+2024-12-04 18:18:43,332 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-04 18:18:44,745 - lightrag - INFO - Local query uses 60 entites, 21 relations, 0 text units
+2024-12-04 18:18:46,813 - lightrag - INFO - Global query uses 1 entites, 21 relations, 0 text units
+2024-12-04 18:19:00,958 - lightrag - INFO - Local query uses 60 entites, 21 relations, 0 text units
+2024-12-04 18:19:01,970 - lightrag - INFO - Global query uses 1 entites, 21 relations, 0 text units
+2024-12-17 20:50:22,246 - lightrag - INFO - Logger initialized for working directory: ./automationMarkdown
+2024-12-17 20:50:22,279 - lightrag - INFO - Load KV llm_response_cache with 1607 data
+2024-12-17 20:50:22,290 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-17 20:50:22,313 - lightrag - INFO - Load KV text_chunks with 525 data
+2024-12-17 20:50:22,432 - lightrag - INFO - Loaded graph from ./automationMarkdown\graph_chunk_entity_relation.graphml with 1951 nodes, 790 edges
+2024-12-17 20:50:22,583 - lightrag - WARNING - All docs are already in the storage
+2024-12-17 20:50:27,285 - lightrag - INFO - Truncate 60 to 0 chunks
+2024-12-17 20:50:53,168 - lightrag - INFO - Local query uses 60 entites, 24 relations, 0 text units
+2024-12-17 20:51:05,036 - lightrag - INFO - Global query uses 2 entites, 21 relations, 0 text units
+2024-12-17 20:51:16,758 - lightrag - INFO - Local query uses 60 entites, 24 relations, 0 text units
+2024-12-17 20:51:17,715 - lightrag - INFO - Global query uses 2 entites, 21 relations, 0 text units
